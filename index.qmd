@@ -1,0 +1,5 @@
+---
+title: "Welcome to my website!"
+---
+
+Hi, my name is Tina Kim. I'm a 4th year student studying Cognitive Science and Statistics at University of Toronto. Nice to meet you!
